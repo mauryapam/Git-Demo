@@ -1,2 +1,3 @@
 this is file2
 new text added
+text added by deepak
